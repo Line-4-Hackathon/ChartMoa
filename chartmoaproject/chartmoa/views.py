@@ -13,6 +13,9 @@ def chart(request):
 
     return render(request, 'chart.html', {'title': title})
 
+def esfj(request):
+    return render(request, 'esfj.html')  
+
 
 def developers(request):
     return render(request, 'developers.html')
