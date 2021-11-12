@@ -1,6 +1,6 @@
 # ChartMoa
 
-### 차트르 모아서 보는 Chart~Moa~H 입니다. ###
+### 차트르 모아서 보는 ChartMoa~H 입니다. ###
 
 프로젝트 이르 : ChartMoa
 팀 이름 : 1등한 일벌들
