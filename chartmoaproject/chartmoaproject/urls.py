@@ -23,5 +23,6 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('', main, name="main"),
     path('chart/', chart, name="chart"),
+    path('esfj/', esfj, name="esfj"),
     path('developers/', developers, name="developers"),
 ]
